@@ -1,6 +1,7 @@
 # Integrated Elderly Care Web Platform
 
-![Platform Screenshot](screenshot.png)
+![Screenshot (20)](https://github.com/naveedgaibu03/Elder_care_palatform/assets/46354025/a0c0f2c5-3184-4bbc-aed7-4137753ec72c)
+
 
 **Table of Contents**
 - [Introduction](#introduction)
